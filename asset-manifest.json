@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/css/main.c86de646.css",
-    "main.js": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/js/main.9bc091b0.js",
-    "static/media/postgresql.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/postgresql.52d31cc1fd8306d5ff52.png",
-    "static/media/python.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/java.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/java.f4ea765878d6e68edefd.png",
-    "static/media/c.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/c.ca323b325816f40cf155.png",
-    "static/media/mysql.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/mysql.bdbd1eb709e4c13258d2.png",
-    "static/media/cpp.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/cpp.24a8f93854ab092f17a7.png",
-    "static/media/html.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/html.cfb2ba4a6b1c3de295bc.png",
-    "static/media/js.png": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/index.html",
-    "main.c86de646.css.map": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/css/main.c86de646.css.map",
-    "main.9bc091b0.js.map": "/git@github.com:georgeuwagbale/georgeuwagbale.github.io/build/static/js/main.9bc091b0.js.map"
+    "main.css": "./static/css/main.c86de646.css",
+    "main.js": "./static/js/main.a9b8a445.js",
+    "static/media/postgresql.png": "./static/media/postgresql.52d31cc1fd8306d5ff52.png",
+    "static/media/python.png": "./static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/java.png": "./static/media/java.f4ea765878d6e68edefd.png",
+    "static/media/c.png": "./static/media/c.ca323b325816f40cf155.png",
+    "static/media/mysql.png": "./static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/cpp.png": "./static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/html.png": "./static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/js.png": "./static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "./index.html",
+    "main.c86de646.css.map": "./static/css/main.c86de646.css.map",
+    "main.a9b8a445.js.map": "./static/js/main.a9b8a445.js.map"
   },
   "entrypoints": [
     "static/css/main.c86de646.css",
-    "static/js/main.9bc091b0.js"
+    "static/js/main.a9b8a445.js"
   ]
 }
