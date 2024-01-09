@@ -1,6 +1,5 @@
 
 
-import Java from "../assets/java.png"; 
 import HTML from "../assets/html.png";
 import NestJs from '../assets/nestjs.png';
 import React from '../assets/react.png'
