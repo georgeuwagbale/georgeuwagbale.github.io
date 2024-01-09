@@ -2,12 +2,15 @@
 
 import Java from "../assets/java.png"; 
 import HTML from "../assets/html.png";
-import JavaScript from "../assets/js.png";
+import NestJs from '../assets/nestjs.png';
+import React from '../assets/react.png'
 import C from "../assets/c.png";
 import CPP from "../assets/cpp.png";
 import MySQL from "../assets/mysql.png";
 import PostgreSQL from "../assets/postgresql.png";
-import Python from "../assets/python.png";
+import PyTorch from '../assets/pytorch.png';
+import Spring from "../assets/spring-boot.png";
+
 
 const Skills = () => {
   return (
@@ -22,24 +25,25 @@ const Skills = () => {
             </div>
 
             <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
+
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto" src={HTML} alt="HTML icon" />
-                    <p className="py-4">HTML</p>
+                    <img className="w-20 mx-auto" src={Spring} alt="Java icon" />
+                    <p className="py-4">SPRING BOOT</p>
                 </div>
 
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto" src={C} alt="C icon" />
-                    <p className="py-4">C</p>
+                    <img className="w-20 mx-auto" src={PyTorch} alt="Java icon" />
+                    <p className="py-4">PYTORCH</p>
                 </div>
 
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto" src={CPP} alt="CPP icon" />
-                    <p className="py-4">C++</p>
+                    <img className="w-20 mx-auto" src={NestJs} alt="Java icon" />
+                    <p className="py-4">NESTJS</p>
                 </div>
 
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto" src={JavaScript} alt="JavaScript icon" />
-                    <p className="py-4">JAVASCRIPT</p>
+                    <img className="w-20 mx-auto" src={React} alt="JavaScript icon" />
+                    <p className="py-4">REACTJS</p>
                 </div>
 
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -53,15 +57,20 @@ const Skills = () => {
                 </div>
 
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto" src={Python} alt="Java icon" />
-                    <p className="py-4">PYTHON</p>
+                    <img className="w-20 mx-auto" src={C} alt="C icon" />
+                    <p className="py-4">C</p>
                 </div>
-                
+
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto" src={Java} alt="Java icon" />
-                    <p className="py-4">JAVA</p>
+                    <img className="w-20 mx-auto" src={CPP} alt="CPP icon" />
+                    <p className="py-4">C++</p>
                 </div>
-                
+
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                    <img className="w-20 mx-auto" src={HTML} alt="HTML icon" />
+                    <p className="py-4">HTML</p>
+                </div>
+
             </div>
         </div>
     </div>
