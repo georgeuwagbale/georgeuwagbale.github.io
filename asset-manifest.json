@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.fa282e32.css",
-    "main.js": "./static/js/main.de780895.js",
+    "main.css": "./static/css/main.5ad43ca7.css",
+    "main.js": "./static/js/main.876d3faf.js",
+    "static/media/react.png": "./static/media/react.375f27d6a264413dbc46.png",
+    "static/media/mysql.png": "./static/media/mysql.4fe76d0c8c2cd39a2766.png",
+    "static/media/nestjs.png": "./static/media/nestjs.60444ab7bff59717b55d.png",
     "static/media/postgresql.png": "./static/media/postgresql.52d31cc1fd8306d5ff52.png",
-    "static/media/Linux.png": "./static/media/Linux.529c8d703aef3daac841.png",
     "static/media/python.png": "./static/media/python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/java.png": "./static/media/java.f4ea765878d6e68edefd.png",
     "static/media/c.png": "./static/media/c.ca323b325816f40cf155.png",
-    "static/media/mysql.png": "./static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/linux_os.png": "./static/media/linux_os.3f69470d8aa37d4080fb.png",
     "static/media/cpp.png": "./static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/pytorch.png": "./static/media/pytorch.f51803954e5c4cbff903.png",
     "static/media/html.png": "./static/media/html.cfb2ba4a6b1c3de295bc.png",
-    "static/media/js.png": "./static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "./index.html",
-    "main.fa282e32.css.map": "./static/css/main.fa282e32.css.map",
-    "main.de780895.js.map": "./static/js/main.de780895.js.map"
+    "main.5ad43ca7.css.map": "./static/css/main.5ad43ca7.css.map",
+    "main.876d3faf.js.map": "./static/js/main.876d3faf.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa282e32.css",
-    "static/js/main.de780895.js"
+    "static/css/main.5ad43ca7.css",
+    "static/js/main.876d3faf.js"
   ]
 }
